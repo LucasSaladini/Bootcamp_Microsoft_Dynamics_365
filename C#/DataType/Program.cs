@@ -4,6 +4,8 @@ double altura = 1.80;
 decimal preco = 1.90M;
 bool condicao = true;
 
+quantidade = 10;
+
 Console.WriteLine(apresentacao);
 Console.WriteLine("Valor da variável quantidade: " + quantidade);
 Console.WriteLine("Valor da variável altura: " + altura.ToString("0.00"));

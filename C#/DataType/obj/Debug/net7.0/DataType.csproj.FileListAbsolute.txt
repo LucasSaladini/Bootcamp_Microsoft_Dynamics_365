@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/bin/Debug/net7.0/DataType
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/bin/Debug/net7.0/DataType.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/bin/Debug/net7.0/DataType.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/bin/Debug/net7.0/DataType.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/bin/Debug/net7.0/DataType.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/refint/DataType.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/DataType.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/DataType/obj/Debug/net7.0/ref/DataType.dll
