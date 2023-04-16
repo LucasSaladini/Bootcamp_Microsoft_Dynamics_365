@@ -25,3 +25,7 @@ int g = 5;
 double h = g;
 
 Console.WriteLine(g + " é o valor da variável h");
+
+
+double i = 4 / (2 + 2);
+Console.WriteLine(i + " é o valor da variável i");
