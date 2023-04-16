@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/bin/Debug/net7.0/OR
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/bin/Debug/net7.0/OR.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/bin/Debug/net7.0/OR.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/bin/Debug/net7.0/OR.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/bin/Debug/net7.0/OR.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/refint/OR.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/OR.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/LogicalOperands/OR/obj/Debug/net7.0/ref/OR.dll
