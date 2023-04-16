@@ -29,3 +29,10 @@ Console.WriteLine(g + " é o valor da variável h");
 
 double i = 4 / (2 + 2);
 Console.WriteLine(i + " é o valor da variável i");
+
+string j = "15-";
+int k = 0;
+
+int.TryParse(j, out k);
+
+Console.WriteLine(k + " é o valor da variável k");
