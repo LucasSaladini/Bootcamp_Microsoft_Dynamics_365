@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/bin/Debug/net7.0/ConditionalOperands
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/bin/Debug/net7.0/ConditionalOperands.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/bin/Debug/net7.0/ConditionalOperands.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/bin/Debug/net7.0/ConditionalOperands.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/bin/Debug/net7.0/ConditionalOperands.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/refint/ConditionalOperands.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ConditionalOperands.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ConditionalOperands/obj/Debug/net7.0/ref/ConditionalOperands.dll
