@@ -20,3 +20,8 @@ int inteiro = 5;
 string f = inteiro.ToString();
 
 Console.WriteLine(f + " é o valor da variável f");
+
+int g = 5;
+double h = g;
+
+Console.WriteLine(g + " é o valor da variável h");
