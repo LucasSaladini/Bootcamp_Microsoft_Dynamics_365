@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/bin/Debug/net7.0/AtributionOperands
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/bin/Debug/net7.0/AtributionOperands.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/bin/Debug/net7.0/AtributionOperands.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/bin/Debug/net7.0/AtributionOperands.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/bin/Debug/net7.0/AtributionOperands.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/refint/AtributionOperands.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/AtributionOperands.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/AtributionOperands/obj/Debug/net7.0/ref/AtributionOperands.dll
