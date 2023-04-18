@@ -53,5 +53,11 @@ namespace MathOperators.Models
             double tan = Math.Tan(radian);
             Console.WriteLine($"Tangente de {angle} = {Math.Round(tan, 4)}");
         }
+
+        public void SquareRoot(double x)
+        {
+            double root = Math.Sqrt(x);
+            Console.WriteLine($"Raíz quadrada de {x} = {root}");
+        }
     }
 }

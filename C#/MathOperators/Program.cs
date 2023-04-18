@@ -22,3 +22,5 @@ Console.WriteLine(numberDecrement);
 Console.WriteLine("Decrementando o 20");
 numberDecrement--;
 Console.WriteLine(numberDecrement);
+
+calc.SquareRoot(9);
