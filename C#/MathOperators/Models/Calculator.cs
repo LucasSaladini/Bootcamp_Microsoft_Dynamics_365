@@ -26,5 +26,11 @@ namespace MathOperators.Models
         {
             Console.WriteLine($"{x} / {y} = {x / y}");
         }
+
+        public void Power(int x, int y)
+        {
+            double power = Math.Pow(x, y);
+            Console.WriteLine($"{x}^{y} = {power}");
+        }
     }
 }
