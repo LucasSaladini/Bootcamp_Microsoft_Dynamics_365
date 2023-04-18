@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/bin/Debug/net7.0/MathOperators
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/bin/Debug/net7.0/MathOperators.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/bin/Debug/net7.0/MathOperators.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/bin/Debug/net7.0/MathOperators.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/bin/Debug/net7.0/MathOperators.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/refint/MathOperators.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/MathOperators.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MathOperators/obj/Debug/net7.0/ref/MathOperators.dll
