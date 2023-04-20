@@ -32,8 +32,9 @@
 // Console.WriteLine($"Total da soma dos números digitados é: {sum}");
 
 string option;
+bool showMenu = true;
 
-while (true)
+while (showMenu)
 {
     // Console.Clear();
     Console.WriteLine("Digite a sua opção:");
@@ -57,10 +58,13 @@ while (true)
             break;
         case "4":
             Console.WriteLine("Encerrar");
-            Environment.Exit(0);
+            showMenu = false;
+            // Environment.Exit(0);
             break;
         default:
             Console.WriteLine("Opção inválida");
             break;
     }
 }
+
+Console.WriteLine("O programa se encerrou");
