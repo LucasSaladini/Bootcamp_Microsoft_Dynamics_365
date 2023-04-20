@@ -18,15 +18,49 @@
 //     }
 // }
 
-int sum = 0, number = 0;
+// int sum = 0, number = 0;
 
-do
+// do
+// {
+//     Console.WriteLine("Digite um número (0 para parar)");
+
+//     number = Convert.ToInt32(Console.ReadLine());
+
+//     sum += number;
+// } while (number != 0);
+
+// Console.WriteLine($"Total da soma dos números digitados é: {sum}");
+
+string option;
+
+while (true)
 {
-    Console.WriteLine("Digite um número (0 para parar)");
+    // Console.Clear();
+    Console.WriteLine("Digite a sua opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
 
-    number = Convert.ToInt32(Console.ReadLine());
+    option = Console.ReadLine();
 
-    sum += number;
-} while (number != 0);
-
-Console.WriteLine($"Total da soma dos números digitados é: {sum}");
+    switch (option)
+    {
+        case "1":
+            Console.WriteLine("Cadastro de cliente");
+            break;
+        case "2":
+            Console.WriteLine("Busca de cliente");
+            break;
+        case "3":
+            Console.WriteLine("Apagar cliente");
+            break;
+        case "4":
+            Console.WriteLine("Encerrar");
+            Environment.Exit(0);
+            break;
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
+}
