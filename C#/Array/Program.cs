@@ -4,6 +4,8 @@ arrayIntegers[0] = 72;
 arrayIntegers[1] = 74;
 arrayIntegers[2] = 50;
 
+Array.Resize(ref arrayIntegers, arrayIntegers.Length * 2);
+
 Console.WriteLine("Percorrendo o Array com o FOR");
 for (int counter = 0; counter < arrayIntegers.Length; counter++)
 {
