@@ -10,11 +10,7 @@ namespace Properties_Methods_Constructors.Models
         private string _name;
         public string Name
         {
-            get
-            {
-                return _name.ToUpper();
-            }
-
+            get => _name.ToUpper(); //Body expression
             set
             {
                 if (value == "")
@@ -29,10 +25,8 @@ namespace Properties_Methods_Constructors.Models
         private int _age;
         public int Age
         {
-            get
-            {
-                return _age;
-            }
+            get => _age;  //Body expression
+
             set
             {
                 if (value < 0)
