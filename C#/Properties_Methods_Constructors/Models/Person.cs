@@ -7,8 +7,42 @@ namespace Properties_Methods_Constructors.Models
 {
     public class Person
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
+        private string _name;
+        public string Name
+        {
+            get
+            {
+                return _name.ToUpper();
+            }
+
+            set
+            {
+                if (value == "")
+                {
+                    throw new ArgumentException("O nome não pode ser vazio");
+                }
+
+                _name = value;
+            }
+        }
+
+        private int _age;
+        public int Age
+        {
+            get
+            {
+                return _age;
+            }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser inferior a zero");
+                }
+
+                _age = value;
+            }
+        }
 
         public void Introduce()
         {
