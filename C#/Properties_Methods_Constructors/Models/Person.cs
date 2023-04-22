@@ -24,6 +24,10 @@ namespace Properties_Methods_Constructors.Models
             }
         }
 
+        public string Surname { get; set; }
+
+        public string FullName => $"{Name} {Surname}".ToUpper(); //Body expression
+
 
         public int Age
         {
@@ -42,7 +46,7 @@ namespace Properties_Methods_Constructors.Models
 
         public void Introduce()
         {
-            Console.WriteLine($"Nome: {Name}, Idade: {Age}");
+            Console.WriteLine($"Nome: {FullName}, Idade: {Age}");
         }
     }
 }
