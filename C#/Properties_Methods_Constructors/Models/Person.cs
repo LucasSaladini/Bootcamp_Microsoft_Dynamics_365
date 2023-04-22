@@ -7,6 +7,17 @@ namespace Properties_Methods_Constructors.Models
 {
     public class Person
     {
+        public Person()
+        {
+
+        }
+
+
+        public Person(string Name, string Surname)
+        {
+
+        }
+
         private string _name;
         private int _age;
 
