@@ -8,6 +8,8 @@ namespace Properties_Methods_Constructors.Models
     public class Person
     {
         private string _name;
+        private int _age;
+
         public string Name
         {
             get => _name.ToUpper(); //Body expression
@@ -22,7 +24,7 @@ namespace Properties_Methods_Constructors.Models
             }
         }
 
-        private int _age;
+
         public int Age
         {
             get => _age;  //Body expression
