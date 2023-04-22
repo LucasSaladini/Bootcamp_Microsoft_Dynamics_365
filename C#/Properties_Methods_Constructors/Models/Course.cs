@@ -15,5 +15,11 @@ namespace Properties_Methods_Constructors.Models
         {
             Students.Add(student);
         }
+
+        public int GetEnrolledStudentsQuantity()
+        {
+            int quantity = Students.Count();
+            return quantity;
+        }
     }
 }
