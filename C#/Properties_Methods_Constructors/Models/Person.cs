@@ -13,9 +13,10 @@ namespace Properties_Methods_Constructors.Models
         }
 
 
-        public Person(string Name, string Surname)
+        public Person(string name, string surname)
         {
-
+            Name = name;
+            Surname = surname;
         }
 
         private string _name;

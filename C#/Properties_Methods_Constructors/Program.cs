@@ -1,6 +1,6 @@
 ﻿using Properties_Methods_Constructors.Models;
 
-Person p1 = new Person("Lucas", "Saladini");
+Person p1 = new Person(name: "Lucas", surname: "Saladini");
 
 // p1.Name = "Lucas";
 // p1.Surname = "Saladini";
@@ -8,7 +8,7 @@ Person p1 = new Person("Lucas", "Saladini");
 // p1.Introduce();
 
 
-Person p2 = new Person("Eduardo", "Neves Queiroz");
+Person p2 = new Person(name: "Eduardo", surname: "Neves Queiroz");
 
 Course englishCourse = new Course();
 
