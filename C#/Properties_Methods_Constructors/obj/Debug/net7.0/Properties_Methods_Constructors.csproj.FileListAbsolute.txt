@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/bin/Debug/net7.0/Properties_Methods_Constructors
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/bin/Debug/net7.0/Properties_Methods_Constructors.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/bin/Debug/net7.0/Properties_Methods_Constructors.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/bin/Debug/net7.0/Properties_Methods_Constructors.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/bin/Debug/net7.0/Properties_Methods_Constructors.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/refint/Properties_Methods_Constructors.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/Properties_Methods_Constructors.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/Properties_Methods_Constructors/obj/Debug/net7.0/ref/Properties_Methods_Constructors.dll

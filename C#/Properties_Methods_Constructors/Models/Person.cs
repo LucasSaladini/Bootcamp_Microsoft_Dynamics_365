@@ -9,5 +9,10 @@ namespace Properties_Methods_Constructors.Models
     {
         public string Name { get; set; }
         public int Age { get; set; }
+
+        public void Introduce()
+        {
+            Console.WriteLine($"Nome: {Name}, Idade: {Age}");
+        }
     }
 }

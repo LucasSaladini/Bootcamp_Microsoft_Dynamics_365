@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Properties_Methods_Constructors.Models;
+
+Person p1 = new Person();
+
+p1.Name = "Lucas";
+p1.Age = 29;
+p1.Introduce();
