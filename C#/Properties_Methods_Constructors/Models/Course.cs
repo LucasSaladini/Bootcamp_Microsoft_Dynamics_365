@@ -21,5 +21,10 @@ namespace Properties_Methods_Constructors.Models
             int quantity = Students.Count();
             return quantity;
         }
+
+        public bool RemoveStudent(Person student)
+        {
+            return Students.Remove(student);
+        }
     }
 }
