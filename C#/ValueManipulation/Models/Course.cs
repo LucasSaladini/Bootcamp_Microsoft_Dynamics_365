@@ -33,7 +33,7 @@ namespace ValueManipulation.Models
             for (int count = 0; count < Students.Count; count++)
             {
                 // string text = "Nº " + count + " - " + Students[count].FullName;
-                string text = $"Nº {count} - {Students[count].FullName}";
+                string text = $"Nº {count + 1} - {Students[count].FullName}";
                 Console.WriteLine(text);
             }
         }
