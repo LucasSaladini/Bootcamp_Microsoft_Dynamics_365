@@ -32,7 +32,8 @@ namespace ValueManipulation.Models
             Console.WriteLine($"Alunos do curso de: {Name}");
             for (int count = 0; count < Students.Count; count++)
             {
-                string text = "Nº " + count + " - " + Students[count].FullName;
+                // string text = "Nº " + count + " - " + Students[count].FullName;
+                string text = $"Nº {count} - {Students[count].FullName}";
                 Console.WriteLine(text);
             }
         }
