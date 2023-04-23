@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/bin/Debug/net7.0/ValueManipulation
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/bin/Debug/net7.0/ValueManipulation.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/bin/Debug/net7.0/ValueManipulation.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/bin/Debug/net7.0/ValueManipulation.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/bin/Debug/net7.0/ValueManipulation.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/refint/ValueManipulation.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ValueManipulation.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ValueManipulation/obj/Debug/net7.0/ref/ValueManipulation.dll
