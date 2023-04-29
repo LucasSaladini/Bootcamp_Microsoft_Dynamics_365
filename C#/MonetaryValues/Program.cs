@@ -16,3 +16,12 @@ Console.WriteLine(percent.ToString("P2"));
 int number = 123456;
 
 Console.WriteLine(number.ToString("##-##-##"));
+
+
+
+
+
+//DateTime
+DateTime date = DateTime.Now;
+Console.WriteLine($"Hora atual: {date}");
+Console.WriteLine($"Hora Personalizada: {date.ToString("MM/dd/yyyy HH:mm")}");
