@@ -36,6 +36,13 @@ Console.WriteLine($"Data parsed: {parsedDate}");
 //DateTime with TryParse
 string dateString = "2022-04-17 18:00";
 
-DateTime.TryParseExact(dateString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime date1);
+bool success = DateTime.TryParseExact(dateString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime date1);
 
-Console.WriteLine($"TryParseExact data: {date1}");
+if (success)
+{
+    Console.WriteLine($"Conversão com sucesso: {date1}");
+}
+else
+{
+    Console.WriteLine($"{dateString} não é uma data válida");
+}
