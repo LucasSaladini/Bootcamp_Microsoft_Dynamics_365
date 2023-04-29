@@ -30,3 +30,12 @@ Console.WriteLine($"Apenas hora: {date.ToShortTimeString()}");
 
 DateTime parsedDate = DateTime.Parse("17/04/2022 18:00");
 Console.WriteLine($"Data parsed: {parsedDate}");
+
+
+
+//DateTime with TryParse
+string dateString = "2022-04-17 18:00";
+
+DateTime.TryParseExact(dateString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime date1);
+
+Console.WriteLine($"TryParseExact data: {date1}");
