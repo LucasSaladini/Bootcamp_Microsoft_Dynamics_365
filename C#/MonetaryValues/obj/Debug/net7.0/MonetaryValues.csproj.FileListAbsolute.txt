@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/bin/Debug/net7.0/MonetaryValues
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/bin/Debug/net7.0/MonetaryValues.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/bin/Debug/net7.0/MonetaryValues.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/bin/Debug/net7.0/MonetaryValues.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/bin/Debug/net7.0/MonetaryValues.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/refint/MonetaryValues.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/MonetaryValues.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/MonetaryValues/obj/Debug/net7.0/ref/MonetaryValues.dll
