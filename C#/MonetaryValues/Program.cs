@@ -25,3 +25,8 @@ Console.WriteLine(number.ToString("##-##-##"));
 DateTime date = DateTime.Now;
 Console.WriteLine($"Hora atual: {date}");
 Console.WriteLine($"Hora Personalizada: {date.ToString("MM/dd/yyyy HH:mm")}");
+Console.WriteLine($"Apenas data: {date.ToShortDateString()}");
+Console.WriteLine($"Apenas hora: {date.ToShortTimeString()}");
+
+DateTime parsedDate = DateTime.Parse("17/04/2022 18:00");
+Console.WriteLine($"Data parsed: {parsedDate}");
