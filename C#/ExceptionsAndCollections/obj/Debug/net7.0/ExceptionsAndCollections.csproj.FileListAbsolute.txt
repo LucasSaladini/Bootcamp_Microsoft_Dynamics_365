@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/bin/Debug/net7.0/ExceptionsAndCollections
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/bin/Debug/net7.0/ExceptionsAndCollections.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/bin/Debug/net7.0/ExceptionsAndCollections.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/bin/Debug/net7.0/ExceptionsAndCollections.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/bin/Debug/net7.0/ExceptionsAndCollections.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/refint/ExceptionsAndCollections.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ExceptionsAndCollections.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/ExceptionsAndCollections/obj/Debug/net7.0/ref/ExceptionsAndCollections.dll
