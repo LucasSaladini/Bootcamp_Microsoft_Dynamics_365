@@ -28,3 +28,24 @@ finally
 
 //Using Models Exception
 new ExceptionExample().Method1();
+
+//Fila - Queue
+Queue<int> queue = new Queue<int>();
+
+queue.Enqueue(2);
+queue.Enqueue(4);
+queue.Enqueue(6);
+queue.Enqueue(8);
+
+foreach (int item in queue)
+{
+    Console.WriteLine($"Itens da fila {item}");
+}
+
+Console.WriteLine($"Removento o elemento: {queue.Dequeue()}"); //Remove sempre o primeiro elemento
+queue.Enqueue(10);
+
+foreach (int item in queue)
+{
+    Console.WriteLine(item);
+}
