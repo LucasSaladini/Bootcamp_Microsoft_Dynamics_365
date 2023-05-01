@@ -49,3 +49,25 @@ foreach (int item in queue)
 {
     Console.WriteLine(item);
 }
+
+//Pilha - Stack
+Stack<int> stack = new Stack<int>();
+
+stack.Push(4);
+stack.Push(6);
+stack.Push(8);
+stack.Push(10);
+
+foreach (int item in stack)
+{
+    Console.WriteLine($"Itens da pilha: {item}");
+}
+
+Console.WriteLine($"Removendo o elemento do topo: {stack.Pop()}");
+
+stack.Push(20);
+
+foreach (int item in stack)
+{
+    Console.WriteLine($"Itens da pilha:  {item}");
+}
