@@ -71,3 +71,15 @@ foreach (int item in stack)
 {
     Console.WriteLine($"Itens da pilha:  {item}");
 }
+
+//Dictionary
+Dictionary<string, string> states = new Dictionary<string, string>(); //Primeiro elemento é a chave e o segundo o valor
+
+states.Add("SP", "São Paulo");
+states.Add("BA", "Bahia");
+states.Add("MG", "Minas Gerais");
+
+foreach (KeyValuePair<string, string> item in states)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
