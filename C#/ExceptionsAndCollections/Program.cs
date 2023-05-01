@@ -1,4 +1,6 @@
-﻿try
+﻿using ExceptionsAndCollections.Models;
+
+try
 {
     string[] lines = File.ReadAllLines("files/read_file.txt");
 
@@ -19,3 +21,10 @@ catch (Exception ex)
 {
     Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
 }
+finally
+{
+    Console.WriteLine("Chegou até aqui"); //Sempre é executado (com ou sem erro)
+}
+
+//Using Models Exception
+new ExceptionExample().Method1();
