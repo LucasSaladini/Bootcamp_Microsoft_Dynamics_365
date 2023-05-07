@@ -1,0 +1,15 @@
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/bin/Debug/net7.0/HotelReservation
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/bin/Debug/net7.0/HotelReservation.deps.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/bin/Debug/net7.0/HotelReservation.runtimeconfig.json
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/bin/Debug/net7.0/HotelReservation.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/bin/Debug/net7.0/HotelReservation.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.csproj.AssemblyReference.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.AssemblyInfoInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.AssemblyInfo.cs
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/refint/HotelReservation.dll
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.pdb
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/HotelReservation.genruntimeconfig.cache
+/home/midnight/Documents/Bootcamp_Microsoft_Dynamics_365/C#/HotelReservation/obj/Debug/net7.0/ref/HotelReservation.dll
